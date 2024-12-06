@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "SB-TestSite",
+    "description": "",
+    "home_page_url": "https://hushpuppy342.github.io/SB-Static1",
+    "feed_url": "https://hushpuppy342.github.io/SB-Static1/feed.json",
+    "user_comment": "",
+    "icon": "https://hushpuppy342.github.io/SB-Static1/media/website/sb_Logo_mini.png",
+    "author": {
+        "name": "MBarrett"
+    },
+    "items": [
+        {
+            "id": "https://hushpuppy342.github.io/SB-Static1/welcome-back-to-school-message-from-the-superintendent-of-schools/",
+            "url": "https://hushpuppy342.github.io/SB-Static1/welcome-back-to-school-message-from-the-superintendent-of-schools/",
+            "title": "Welcome Back to School Message from the Superintendent of Schools",
+            "summary": "Dear Students, Families, and Staff, Welcome back to a new and exciting school year! As we reunite, I want to recognize our profound privilege to learn, work, and play on the unceded (stolen) lands of the Coast Salish peoples, specifically, the Hul’qumi’num and SENĆOŦEN speaking&hellip;",
+            "content_html": "<main id=\"main\">\n<div class=\"ci-article-section\">\n<div class=\"container\">\n<div class=\"row ctn-withleftnav\">\n<div class=\"content-col col-xl-9 pl-xl-25\">\n<div id=\"cireadermain\" class=\"article-holder\">\n<div>\n<article class=\"sb-msg content-item\">\n<div>\n<div class=\"top-area\">\n<div class=\"fr-view\">\n<p id=\"isPasted\">Dear Students, Families, and Staff, </p>\n<p>Welcome back to a new and exciting school year! As we reunite, I want to recognize our profound privilege to learn, work, and play on the unceded (stolen) lands of the Coast Salish peoples, specifically, the Hul’qumi’num and SENĆOŦEN speaking peoples. This is a moment to reflect on the importance of our journey ahead and how we can grow together as a community of learners. </p>\n<p>I invite you to familiarize yourself with the <a href=\"https://www.fnesc.ca/first-peoples-principles-of-learning/\" target=\"_blank\" rel=\"noopener noreferrer\">First Peoples Principles of Learning</a>, which remind us that education is not just about acquiring knowledge but about fostering the well-being of ourselves, our families, our communities, and the world around us. Learning is a holistic experience that connects us to our past, present, and future, as well as to the land and spirits that surround us. </p>\n<p>We are committed to creating a learning environment that honours these principles—one where education is reflective, experiential, and relational. We will explore the role of Indigenous knowledge, understanding that some wisdom is sacred and must be approached with respect and care. We will encourage our students to be mindful of their actions and the impact they have on others, recognizing that learning is a shared responsibility across generations. </p>\n<p>As we embark on this school year, let us embrace the patience and time required for true learning. Let us honour our stories, histories, and identities as we grow together. I am confident that with these principles at the heart of our work, we will create a school community that is not only successful but also deeply connected and enriched by our collective experiences and where every learner thrives and flourishes. </p>\n<p>I look forward to witnessing the growth, learning, and connections that will unfold this year.  </p>\n</div>\n</div>\n</div>\n</article>\n</div>\n<div> </div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</main><footer class=\"footer\">\n<div id=\"bg-stretch166720401674732\" class=\"bg-stretch\"></div>\n<div class=\"container\">\n<div class=\"footer-head\"> </div>\n</div>\n</footer>",
+            "author": {
+                "name": "MBarrett"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-09-03T12:11:03-04:00",
+            "date_modified": "2024-09-04T10:08:36-04:00"
+        }
+    ]
+}
